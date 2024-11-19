@@ -1,11 +1,12 @@
- 
+ CUE: RELACIONES MUCHOS A UNO 
+ DRILLING: LISTADO DE PRODUCTOS 
 
 
 evaluacion 
 m7_s5
 
 Para clonar:
-
+https://github.com/ThDelgado/app_supermercado_uno_muchos.git
 
 Thelma Delgado
 
